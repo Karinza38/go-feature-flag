@@ -1,4 +1,4 @@
-<p align="center">
+ <p align="center">
   <img width="400" src="gofeatureflag.svg" alt="go-feature-flag logo" />
 </p>
 
